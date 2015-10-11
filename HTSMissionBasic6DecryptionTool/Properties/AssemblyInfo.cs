@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("hts-basic6-decrypter")]
+[assembly: AssemblyTitle("HTSMissionBasic6DecryptionTool")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("hts-basic6-decrypter")]
+[assembly: AssemblyProduct("HTSMissionBasic6DecryptionTool")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0d4c2770-3c38-4497-9b0a-9d2994601e01")]
+[assembly: Guid("d8867380-c442-4421-8f75-9f3f9b264dea")]
 
 // Version information for an assembly consists of the following four values:
 //
